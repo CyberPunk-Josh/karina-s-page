@@ -1,0 +1,186 @@
+.nav-principal img{
+  width: 1.5rem;
+  height: auto;
+}
+
+.nav_prin{
+  background: rgba(0, 0, 0, 0.199)!important;
+}
+
+.navegacion{
+  background: rgba(0, 0, 0, 0.199)!important; 
+}
+
+/* Header */
+
+.aw-vertical-align{
+  height: 100vh;
+}
+
+.fondo{
+  background-image: url(./img/cotizador.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.fondo h1{
+  font-size: 2.2rem;
+  font-weight: 500;
+  font-family: 'Kaushan Script', cursive;
+}
+
+/* termina Header */
+
+/* sobre nosotros */
+.sobre-nosotros h3{
+  font-size: 1rem;
+  font-weight: 700;
+}
+/* termina sobre nosotros */
+
+/* viajes */
+/* anuncios */
+.anuncios .card{
+  margin-bottom: 2rem;
+}
+
+.card-precio{
+  font-size: 1.1rem;
+  color: var(--primario);
+}
+
+.card-description i{
+  font-size: 25px;
+}
+/* termina viajes */
+
+/* encuentra */
+.encuentra{
+  background-image:  linear-gradient(to top, rgba(179, 255, 171, 0.404) 0%, rgba(18, 255, 247, 0.418) 100%), url(./img/fondo_viaje.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.encuentra .row{
+  height: 25rem;
+}
+
+.encuentra h3{
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: rgba(0, 0, 0, 0.808);
+}
+
+.encuentra p{
+  color: rgba(0, 0, 0, 0.808);
+  font-weight: 500;
+}
+
+/* blog */
+
+.entrada h3::after{
+  content: '';
+  display: block;
+  width: 8rem;
+  height: .2rem;
+  background-color: #fb3;
+  margin-top: .5rem;
+}
+
+/* testimoniales */
+.testimoniales{
+  background-color: #fb3;
+}
+
+.testimoniales .carousel-item{
+  padding-left: 2rem;
+}
+
+.testimoniales .testimonial-texto{
+  color: #000000;
+  font-size: 1.4rem;
+  line-height: 2.6rem;
+  font-weight: 300;
+}
+
+.testimoniales .testimonial-texto::before{
+  content: open-quote;
+  font-size: 4rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  font-weight: 900;
+}
+
+.testimoniales span{
+  font-size: 1.4rem;
+  font-weight: 900;
+}
+
+.footer .nav-link{
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.carousel-indicators{
+  display: none !important;
+}
+
+/* Nosotros */
+.fondo2{
+  background-image: linear-gradient(to top, rgba(204, 165, 80, 0.404) 0%, rgba(221, 245, 0, 0.404) 100%), url(./img/Bellas-Artes.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+.fondo2 h1{
+  font-size: 2.2rem;
+  font-weight: 700;
+  font-family: 'Kaushan Script', cursive;
+  color: rgba(0, 0, 0, 0.849);
+}
+
+.fondo2 p{
+  color: rgba(0, 0, 0, 0.849);
+  font-weight: 400;
+}
+
+.wave{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.karina-logo img{
+  width: 22rem;
+  height: auto;
+}
+
+/* acordeon servicios */
+#servicios .card-header {
+  background-color: #fb3;
+  padding: 0 1.25rem;
+}
+#servicios .card-header .btn-link {
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+#servicios .card-body {
+  font-size: 1.1rem;
+}
+
+/* facebook */
+.facebook img{
+  width: 25rem;
+  height: auto;
+}
