@@ -11,7 +11,7 @@ const Facebook = () => {
             </div>
             <div class="col-md-4 d-column align-items-center justify-content-center mt-4">
                 <p class="text-center text-uppercase">Encuentranos en Facebook</p>
-                <a href="#" class="btn btn-warning text-uppercase py-2 d-block text-white">Pagina Facebook</a>
+                <a href="https://www.facebook.com/VIKA-turismo-y-transporte-102375181811166" class="btn btn-warning text-uppercase py-2 d-block text-white">Pagina Facebook</a>
             </div>
         </div>
     </div>

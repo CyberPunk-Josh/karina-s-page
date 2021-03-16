@@ -1,0 +1,1444 @@
+[
+    {
+        "destino": "Tepoztlan",
+        "estado": "MORELOS",
+        "personas": "1 - 4",
+        "precio": 190
+    },
+    {
+        "destino": "Tepoztlan",
+        "estado": "MORELOS",
+        "personas": "5 - 7",
+        "precio": 285
+    },
+    {
+        "destino": "Tepoztlan",
+        "estado": "MORELOS",
+        "personas": "8 - 14",
+        "precio": 385
+    },
+    {
+        "destino": "Tepoztlan",
+        "estado": "MORELOS",
+        "personas": "15 - 20",
+        "precio": 380
+    },
+    {
+        "destino": "Cosmovitral",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 124
+    },
+    {
+        "destino": "Cosmovitral",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 185.85
+    },
+    {
+        "destino": "Cosmovitral",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 285.85
+    },
+    {
+        "destino": "Cosmovitral",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 247.8
+    },
+    {
+        "destino": "La Marquesa",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 135
+    },
+    {
+        "destino": "La Marquesa",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 202.5
+    },
+    {
+        "destino": "La Marquesa",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 302.5
+    },
+    {
+        "destino": "La Marquesa",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 270
+    },
+    {
+        "destino": "Acapulco",
+        "estado": "GUERRERO",
+        "personas": "1 - 4",
+        "precio": 840
+    },
+    {
+        "destino": "Acapulco",
+        "estado": "GUERRERO",
+        "personas": "5 - 7",
+        "precio": 1260
+    },
+    {
+        "destino": "Acapulco",
+        "estado": "GUERRERO",
+        "personas": "8 - 14",
+        "precio": 1360
+    },
+    {
+        "destino": "Acapulco",
+        "estado": "GUERRERO",
+        "personas": "15 - 20",
+        "precio": 1680
+    },
+    {
+        "destino": "Chilpancingo",
+        "estado": "GUERRERO",
+        "personas": "1 - 4",
+        "precio": 575
+    },
+    {
+        "destino": "Chilpancingo",
+        "estado": "GUERRERO",
+        "personas": "5 - 7",
+        "precio": 862.5
+    },
+    {
+        "destino": "Chilpancingo",
+        "estado": "GUERRERO",
+        "personas": "8 - 14",
+        "precio": 962.5
+    },
+    {
+        "destino": "Chilpancingo",
+        "estado": "GUERRERO",
+        "personas": "15 - 20",
+        "precio": 1150
+    },
+    {
+        "destino": "Cuernavaca",
+        "estado": "MORELOS",
+        "personas": "1 - 4",
+        "precio": 210
+    },
+    {
+        "destino": "Cuernavaca",
+        "estado": "MORELOS",
+        "personas": "5 - 7",
+        "precio": 315
+    },
+    {
+        "destino": "Cuernavaca",
+        "estado": "MORELOS",
+        "personas": "8 - 14",
+        "precio": 415
+    },
+    {
+        "destino": "Cuernavaca",
+        "estado": "MORELOS",
+        "personas": "15 - 20",
+        "precio": 420
+    },
+    {
+        "destino": "Guadalajara",
+        "estado": "JALISCO",
+        "personas": "1 - 4",
+        "precio": 1120
+    },
+    {
+        "destino": "Guadalajara",
+        "estado": "JALISCO",
+        "personas": "5 - 7",
+        "precio": 1680
+    },
+    {
+        "destino": "Guadalajara",
+        "estado": "JALISCO",
+        "personas": "8 - 14",
+        "precio": 1780
+    },
+    {
+        "destino": "Guadalajara",
+        "estado": "JALISCO",
+        "personas": "15 - 20",
+        "precio": 2240
+    },
+    {
+        "destino": "Guanajuato",
+        "estado": "GUANAJUATO",
+        "personas": "1 - 4",
+        "precio": 745
+    },
+    {
+        "destino": "Guanajuato",
+        "estado": "GUANAJUATO",
+        "personas": "5 - 7",
+        "precio": 1117.5
+    },
+    {
+        "destino": "Guanajuato",
+        "estado": "GUANAJUATO",
+        "personas": "8 - 14",
+        "precio": 1217.5
+    },
+    {
+        "destino": "Guanajuato",
+        "estado": "GUANAJUATO",
+        "personas": "15 - 20",
+        "precio": 1490
+    },
+    {
+        "destino": "Morelia",
+        "estado": "MICHOACAN",
+        "personas": "1 - 4",
+        "precio": 625
+    },
+    {
+        "destino": "Morelia",
+        "estado": "MICHOACAN",
+        "personas": "5 - 7",
+        "precio": 937.5
+    },
+    {
+        "destino": "Morelia",
+        "estado": "MICHOACAN",
+        "personas": "8 - 14",
+        "precio": 1037.5
+    },
+    {
+        "destino": "Morelia",
+        "estado": "MICHOACAN",
+        "personas": "15 - 20",
+        "precio": 1250
+    },
+    {
+        "destino": "Mariposa Monarca",
+        "estado": "MICHOACAN",
+        "personas": "1 - 4",
+        "precio": 370
+    },
+    {
+        "destino": "Mariposa Monarca",
+        "estado": "MICHOACAN",
+        "personas": "5 - 7",
+        "precio": 555
+    },
+    {
+        "destino": "Mariposa Monarca",
+        "estado": "MICHOACAN",
+        "personas": "8 - 14",
+        "precio": 655
+    },
+    {
+        "destino": "Mariposa Monarca",
+        "estado": "MICHOACAN",
+        "personas": "15 - 20",
+        "precio": 740
+    },
+    {
+        "destino": "Pachuca",
+        "estado": "HIDALGO",
+        "personas": "1 - 4",
+        "precio": 225
+    },
+    {
+        "destino": "Pachuca",
+        "estado": "HIDALGO",
+        "personas": "5 - 7",
+        "precio": 337.5
+    },
+    {
+        "destino": "Pachuca",
+        "estado": "HIDALGO",
+        "personas": "8 - 14",
+        "precio": 437.5
+    },
+    {
+        "destino": "Pachuca",
+        "estado": "HIDALGO",
+        "personas": "15 - 20",
+        "precio": 450
+    },
+    {
+        "destino": "Tehuacan",
+        "estado": "PUEBLA",
+        "personas": "1 - 4",
+        "precio": 480
+    },
+    {
+        "destino": "Tehuacan",
+        "estado": "PUEBLA",
+        "personas": "5 - 7",
+        "precio": 720
+    },
+    {
+        "destino": "Tehuacan",
+        "estado": "PUEBLA",
+        "personas": "8 - 14",
+        "precio": 820
+    },
+    {
+        "destino": "Tehuacan",
+        "estado": "PUEBLA",
+        "personas": "15 - 20",
+        "precio": 960
+    },
+    {
+        "destino": "Puebla",
+        "estado": "PUEBLA",
+        "personas": "1 - 4",
+        "precio": 290
+    },
+    {
+        "destino": "Puebla",
+        "estado": "PUEBLA",
+        "personas": "5 - 7",
+        "precio": 435
+    },
+    {
+        "destino": "Puebla",
+        "estado": "PUEBLA",
+        "personas": "8 - 14",
+        "precio": 535
+    },
+    {
+        "destino": "Puebla",
+        "estado": "PUEBLA",
+        "personas": "15 - 20",
+        "precio": 580
+    },
+    {
+        "destino": "Queretaro",
+        "estado": "QUERETARO",
+        "personas": "1 - 4",
+        "precio": 415
+    },
+    {
+        "destino": "Queretaro",
+        "estado": "QUERETARO",
+        "personas": "5 - 7",
+        "precio": 622.5
+    },
+    {
+        "destino": "Queretaro",
+        "estado": "QUERETARO",
+        "personas": "8 - 14",
+        "precio": 722.5
+    },
+    {
+        "destino": "Queretaro",
+        "estado": "QUERETARO",
+        "personas": "15 - 20",
+        "precio": 830
+    },
+    {
+        "destino": "San Luis Potosi",
+        "estado": "SAN LUIS POTOSI",
+        "personas": "1 - 4",
+        "precio": 860
+    },
+    {
+        "destino": "San Luis Potosi",
+        "estado": "SAN LUIS POTOSI",
+        "personas": "5 - 7",
+        "precio": 1290
+    },
+    {
+        "destino": "San Luis Potosi",
+        "estado": "SAN LUIS POTOSI",
+        "personas": "8 - 14",
+        "precio": 1390
+    },
+    {
+        "destino": "San Luis Potosi",
+        "estado": "SAN LUIS POTOSI",
+        "personas": "15 - 20",
+        "precio": 1720
+    },
+    {
+        "destino": "San Miguel De Allende",
+        "estado": "GUANAJUATO",
+        "personas": "1 - 4",
+        "precio": 560
+    },
+    {
+        "destino": "San Miguel De Allende",
+        "estado": "GUANAJUATO",
+        "personas": "5 - 7",
+        "precio": 840
+    },
+    {
+        "destino": "San Miguel De Allende",
+        "estado": "GUANAJUATO",
+        "personas": "8 - 14",
+        "precio": 940
+    },
+    {
+        "destino": "San Miguel De Allende",
+        "estado": "GUANAJUATO",
+        "personas": "15 - 20",
+        "precio": 1120
+    },
+    {
+        "destino": "Taxco",
+        "estado": "GUERRERO",
+        "personas": "1 - 4",
+        "precio": 360
+    },
+    {
+        "destino": "Taxco",
+        "estado": "GUERRERO",
+        "personas": "5 - 7",
+        "precio": 540
+    },
+    {
+        "destino": "Taxco",
+        "estado": "GUERRERO",
+        "personas": "8 - 14",
+        "precio": 640
+    },
+    {
+        "destino": "Taxco",
+        "estado": "GUERRERO",
+        "personas": "15 - 20",
+        "precio": 720
+    },
+    {
+        "destino": "Teotihuacan",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 140
+    },
+    {
+        "destino": "Teotihuacan",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 210
+    },
+    {
+        "destino": "Teotihuacan",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 310
+    },
+    {
+        "destino": "Teotihuacan",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 280
+    },
+    {
+        "destino": "Tepotzotlan",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 115
+    },
+    {
+        "destino": "Tepotzotlan",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 172.5
+    },
+    {
+        "destino": "Tepotzotlan",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 272.5
+    },
+    {
+        "destino": "Tepotzotlan",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 230
+    },
+    {
+        "destino": "Tlaxcala",
+        "estado": "TLAXCALA",
+        "personas": "1 - 4",
+        "precio": 280
+    },
+    {
+        "destino": "Tlaxcala",
+        "estado": "TLAXCALA",
+        "personas": "5 - 7",
+        "precio": 420
+    },
+    {
+        "destino": "Tlaxcala",
+        "estado": "TLAXCALA",
+        "personas": "8 - 14",
+        "precio": 520
+    },
+    {
+        "destino": "Tlaxcala",
+        "estado": "TLAXCALA",
+        "personas": "15 - 20",
+        "precio": 560
+    },
+    {
+        "destino": "Toluca",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 170
+    },
+    {
+        "destino": "Toluca",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 255
+    },
+    {
+        "destino": "Toluca",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 355
+    },
+    {
+        "destino": "Toluca",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 340
+    },
+    {
+        "destino": "Tula",
+        "estado": "HIDALGO",
+        "personas": "1 - 4",
+        "precio": 220
+    },
+    {
+        "destino": "Tula",
+        "estado": "HIDALGO",
+        "personas": "5 - 7",
+        "precio": 330
+    },
+    {
+        "destino": "Tula",
+        "estado": "HIDALGO",
+        "personas": "8 - 14",
+        "precio": 430
+    },
+    {
+        "destino": "Tula",
+        "estado": "HIDALGO",
+        "personas": "15 - 20",
+        "precio": 440
+    },
+    {
+        "destino": "Valle de Bravo",
+        "estado": "EDOMEX",
+        "personas": "1 - 4",
+        "precio": 330
+    },
+    {
+        "destino": "Valle de Bravo",
+        "estado": "EDOMEX",
+        "personas": "5 - 7",
+        "precio": 495
+    },
+    {
+        "destino": "Valle de Bravo",
+        "estado": "EDOMEX",
+        "personas": "8 - 14",
+        "precio": 595
+    },
+    {
+        "destino": "Valle de Bravo",
+        "estado": "EDOMEX",
+        "personas": "15 - 20",
+        "precio": 660
+    },
+    {
+        "destino": "Veracruz",
+        "estado": "VERACRUZ",
+        "personas": "1 - 4",
+        "precio": 840
+    },
+    {
+        "destino": "Veracruz",
+        "estado": "VERACRUZ",
+        "personas": "5 - 7",
+        "precio": 1260
+    },
+    {
+        "destino": "Veracruz",
+        "estado": "VERACRUZ",
+        "personas": "8 - 14",
+        "precio": 1360
+    },
+    {
+        "destino": "Veracruz",
+        "estado": "VERACRUZ",
+        "personas": "15 - 20",
+        "precio": 1680
+    },
+    {
+        "destino": "Xalapa",
+        "estado": "VERACRUZ",
+        "personas": "1 - 4",
+        "precio": 665
+    },
+    {
+        "destino": "Xalapa",
+        "estado": "VERACRUZ",
+        "personas": "5 - 7",
+        "precio": 997.5
+    },
+    {
+        "destino": "Xalapa",
+        "estado": "VERACRUZ",
+        "personas": "8 - 14",
+        "precio": 1097.5
+    },
+    {
+        "destino": "Xalapa",
+        "estado": "VERACRUZ",
+        "personas": "15 - 20",
+        "precio": 1330
+    },
+    {
+        "destino": "San Cristobal de las Casas",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 1840
+    },
+    {
+        "destino": "San Cristobal de las Casas",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 2759.4
+    },
+    {
+        "destino": "San Cristobal de las Casas",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 2859.4
+    },
+    {
+        "destino": "San Cristobal de las Casas",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 3679.2
+    },
+    {
+        "destino": "Tuxtla Gutierrez",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 1720
+    },
+    {
+        "destino": "Tuxtla Gutierrez",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 2759.85
+    },
+    {
+        "destino": "Tuxtla Gutierrez",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 2679.85
+    },
+    {
+        "destino": "Tuxtla Gutierrez",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 3439.8
+    },
+    {
+        "destino": "Merida",
+        "estado": "YUCATAN",
+        "personas": "1 - 4",
+        "precio": 2862
+    },
+    {
+        "destino": "Merida",
+        "estado": "YUCATAN",
+        "personas": "5 - 7",
+        "precio": 4293.45
+    },
+    {
+        "destino": "Merida",
+        "estado": "YUCATAN",
+        "personas": "8 - 14",
+        "precio": 4393.45
+    },
+    {
+        "destino": "Merida",
+        "estado": "YUCATAN",
+        "personas": "15 - 20",
+        "precio": 5724.6
+    },
+    {
+        "destino": "Ciudad de Carmen",
+        "estado": "CAMPECHE",
+        "personas": "1 - 4",
+        "precio": 1919
+    },
+    {
+        "destino": "Ciudad de Carmen",
+        "estado": "CAMPECHE",
+        "personas": "5 - 7",
+        "precio": 2879.1
+    },
+    {
+        "destino": "Ciudad de Carmen",
+        "estado": "CAMPECHE",
+        "personas": "8 - 14",
+        "precio": 2979.1
+    },
+    {
+        "destino": "Ciudad de Carmen",
+        "estado": "CAMPECHE",
+        "personas": "15 - 20",
+        "precio": 3838.8
+    },
+    {
+        "destino": "Campeche",
+        "estado": "CAMPECHE",
+        "personas": "1 - 4",
+        "precio": 2350
+    },
+    {
+        "destino": "Campeche",
+        "estado": "CAMPECHE",
+        "personas": "5 - 7",
+        "precio": 3524.85
+    },
+    {
+        "destino": "Campeche",
+        "estado": "CAMPECHE",
+        "personas": "8 - 14",
+        "precio": 3624.85
+    },
+    {
+        "destino": "Campeche",
+        "estado": "CAMPECHE",
+        "personas": "15 - 20",
+        "precio": 4699.8
+    },
+    {
+        "destino": "Tulum",
+        "estado": "QUINTANA ROO",
+        "personas": "1 - 4",
+        "precio": 3257
+    },
+    {
+        "destino": "Tulum",
+        "estado": "QUINTANA ROO",
+        "personas": "5 - 7",
+        "precio": 4885.65
+    },
+    {
+        "destino": "Tulum",
+        "estado": "QUINTANA ROO",
+        "personas": "8 - 14",
+        "precio": 4985.65
+    },
+    {
+        "destino": "Tulum",
+        "estado": "QUINTANA ROO",
+        "personas": "15 - 20",
+        "precio": 6514.2
+    },
+    {
+        "destino": "Comitan de Dominguez",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 2029
+    },
+    {
+        "destino": "Comitan de Dominguez",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 3042.9
+    },
+    {
+        "destino": "Comitan de Dominguez",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 3142.9
+    },
+    {
+        "destino": "Comitan de Dominguez",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 4057.2
+    },
+    {
+        "destino": "Villahermosa",
+        "estado": "TABASCO",
+        "personas": "1 - 4",
+        "precio": 1546
+    },
+    {
+        "destino": "Villahermosa",
+        "estado": "TABASCO",
+        "personas": "5 - 7",
+        "precio": 2318.4
+    },
+    {
+        "destino": "Villahermosa",
+        "estado": "TABASCO",
+        "personas": "8 - 14",
+        "precio": 2418.4
+    },
+    {
+        "destino": "Villahermosa",
+        "estado": "TABASCO",
+        "personas": "15 - 20",
+        "precio": 3091.2
+    },
+    {
+        "destino": "Paraiso",
+        "estado": "TABASCO",
+        "personas": "1 - 4",
+        "precio": 1575
+    },
+    {
+        "destino": "Paraiso",
+        "estado": "TABASCO",
+        "personas": "5 - 7",
+        "precio": 2362.5
+    },
+    {
+        "destino": "Paraiso",
+        "estado": "TABASCO",
+        "personas": "8 - 14",
+        "precio": 2462.5
+    },
+    {
+        "destino": "Paraiso",
+        "estado": "TABASCO",
+        "personas": "15 - 20",
+        "precio": 3150
+    },
+    {
+        "destino": "Poza Rica",
+        "estado": "VERACRUZ",
+        "personas": "1 - 4",
+        "precio": 567
+    },
+    {
+        "destino": "Poza Rica",
+        "estado": "VERACRUZ",
+        "personas": "5 - 7",
+        "precio": 850.5
+    },
+    {
+        "destino": "Poza Rica",
+        "estado": "VERACRUZ",
+        "personas": "8 - 14",
+        "precio": 950.5
+    },
+    {
+        "destino": "Poza Rica",
+        "estado": "VERACRUZ",
+        "personas": "15 - 20",
+        "precio": 1134
+    },
+    {
+        "destino": "Tuxpan",
+        "estado": "VERACRUZ",
+        "personas": "1 - 4",
+        "precio": 634
+    },
+    {
+        "destino": "Tuxpan",
+        "estado": "VERACRUZ",
+        "personas": "5 - 7",
+        "precio": 951.3
+    },
+    {
+        "destino": "Tuxpan",
+        "estado": "VERACRUZ",
+        "personas": "8 - 14",
+        "precio": 1051.3
+    },
+    {
+        "destino": "Tuxpan",
+        "estado": "VERACRUZ",
+        "personas": "15 - 20",
+        "precio": 1268.4
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "1 - 4",
+        "precio": 962
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "5 - 7",
+        "precio": 1442.7
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "8 - 14",
+        "precio": 1542.7
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "15 - 20",
+        "precio": 1923.6
+    },
+    {
+        "destino": "Puerto Vallarta",
+        "estado": "JALISCO",
+        "personas": "1 - 4",
+        "precio": 1859
+    },
+    {
+        "destino": "Puerto Vallarta",
+        "estado": "JALISCO",
+        "personas": "5 - 7",
+        "precio": 2787.75
+    },
+    {
+        "destino": "Puerto Vallarta",
+        "estado": "JALISCO",
+        "personas": "8 - 14",
+        "precio": 2887.75
+    },
+    {
+        "destino": "Puerto Vallarta",
+        "estado": "JALISCO",
+        "personas": "15 - 20",
+        "precio": 3717
+    },
+    {
+        "destino": "Manzanillo",
+        "estado": "COLIMA",
+        "personas": "1 - 4",
+        "precio": 1781
+    },
+    {
+        "destino": "Manzanillo",
+        "estado": "COLIMA",
+        "personas": "5 - 7",
+        "precio": 2671.2
+    },
+    {
+        "destino": "Manzanillo",
+        "estado": "COLIMA",
+        "personas": "8 - 14",
+        "precio": 2771.2
+    },
+    {
+        "destino": "Manzanillo",
+        "estado": "COLIMA",
+        "personas": "15 - 20",
+        "precio": 3561.6
+    },
+    {
+        "destino": "Zihuatanejo",
+        "estado": "Guerrero",
+        "personas": "1 - 4",
+        "precio": 1392
+    },
+    {
+        "destino": "Zihuatanejo",
+        "estado": "Guerrero",
+        "personas": "5 - 7",
+        "precio": 2088.45
+    },
+    {
+        "destino": "Zihuatanejo",
+        "estado": "Guerrero",
+        "personas": "8 - 14",
+        "precio": 2188.45
+    },
+    {
+        "destino": "Zihuatanejo",
+        "estado": "Guerrero",
+        "personas": "15 - 20",
+        "precio": 2784.6
+    },
+    {
+        "destino": "Tepic",
+        "estado": "NAYARIT",
+        "personas": "1 - 4",
+        "precio": 1544
+    },
+    {
+        "destino": "Tepic",
+        "estado": "NAYARIT",
+        "personas": "5 - 7",
+        "precio": 2315.25
+    },
+    {
+        "destino": "Tepic",
+        "estado": "NAYARIT",
+        "personas": "8 - 14",
+        "precio": 2415.25
+    },
+    {
+        "destino": "Tepic",
+        "estado": "NAYARIT",
+        "personas": "15 - 20",
+        "precio": 3087
+    },
+    {
+        "destino": "Culiacan",
+        "estado": "SINALOA",
+        "personas": "1 - 4",
+        "precio": 2560
+    },
+    {
+        "destino": "Culiacan",
+        "estado": "SINALOA",
+        "personas": "5 - 7",
+        "precio": 3839.85
+    },
+    {
+        "destino": "Culiacan",
+        "estado": "SINALOA",
+        "personas": "8 - 14",
+        "precio": 3939.85
+    },
+    {
+        "destino": "Culiacan",
+        "estado": "SINALOA",
+        "personas": "15 - 20",
+        "precio": 5119.8
+    },
+    {
+        "destino": "Mochis",
+        "estado": "SINALOA",
+        "personas": "1 - 4",
+        "precio": 2995
+    },
+    {
+        "destino": "Mochis",
+        "estado": "SINALOA",
+        "personas": "5 - 7",
+        "precio": 4491.9
+    },
+    {
+        "destino": "Mochis",
+        "estado": "SINALOA",
+        "personas": "8 - 14",
+        "precio": 4591.9
+    },
+    {
+        "destino": "Mochis",
+        "estado": "SINALOA",
+        "personas": "15 - 20",
+        "precio": 5989.2
+    },
+    {
+        "destino": "Hermosillo",
+        "estado": "SONORA",
+        "personas": "1 - 4",
+        "precio": 3963
+    },
+    {
+        "destino": "Hermosillo",
+        "estado": "SONORA",
+        "personas": "5 - 7",
+        "precio": 5944.05
+    },
+    {
+        "destino": "Hermosillo",
+        "estado": "SONORA",
+        "personas": "8 - 14",
+        "precio": 6044.05
+    },
+    {
+        "destino": "Hermosillo",
+        "estado": "SONORA",
+        "personas": "15 - 20",
+        "precio": 7925.4
+    },
+    {
+        "destino": "Casas Grandes",
+        "estado": "CHIHUAHUA",
+        "personas": "1 - 4",
+        "precio": 3942
+    },
+    {
+        "destino": "Casas Grandes",
+        "estado": "CHIHUAHUA",
+        "personas": "5 - 7",
+        "precio": 5912.55
+    },
+    {
+        "destino": "Casas Grandes",
+        "estado": "CHIHUAHUA",
+        "personas": "8 - 14",
+        "precio": 6012.55
+    },
+    {
+        "destino": "Casas Grandes",
+        "estado": "CHIHUAHUA",
+        "personas": "15 - 20",
+        "precio": 7883.4
+    },
+    {
+        "destino": "Creel",
+        "estado": "CHIHUAHUA",
+        "personas": "1 - 4",
+        "precio": 3549
+    },
+    {
+        "destino": "Creel",
+        "estado": "CHIHUAHUA",
+        "personas": "5 - 7",
+        "precio": 5323.5
+    },
+    {
+        "destino": "Creel",
+        "estado": "CHIHUAHUA",
+        "personas": "8 - 14",
+        "precio": 5423.5
+    },
+    {
+        "destino": "Creel",
+        "estado": "CHIHUAHUA",
+        "personas": "15 - 20",
+        "precio": 7098
+    },
+    {
+        "destino": "Durango",
+        "estado": "DURANGO",
+        "personas": "1 - 4",
+        "precio": 1859
+    },
+    {
+        "destino": "Durango",
+        "estado": "DURANGO",
+        "personas": "5 - 7",
+        "precio": 2787.75
+    },
+    {
+        "destino": "Durango",
+        "estado": "DURANGO",
+        "personas": "8 - 14",
+        "precio": 2887.75
+    },
+    {
+        "destino": "Durango",
+        "estado": "DURANGO",
+        "personas": "15 - 20",
+        "precio": 3717
+    },
+    {
+        "destino": "Cuatro Cienegas",
+        "estado": "COAHUILA",
+        "personas": "1 - 4",
+        "precio": 2291
+    },
+    {
+        "destino": "Cuatro Cienegas",
+        "estado": "COAHUILA",
+        "personas": "5 - 7",
+        "precio": 3436.65
+    },
+    {
+        "destino": "Cuatro Cienegas",
+        "estado": "COAHUILA",
+        "personas": "8 - 14",
+        "precio": 3536.65
+    },
+    {
+        "destino": "Cuatro Cienegas",
+        "estado": "COAHUILA",
+        "personas": "15 - 20",
+        "precio": 4582.2
+    },
+    {
+        "destino": "Torreon",
+        "estado": "COAHUILA",
+        "personas": "1 - 4",
+        "precio": 2073
+    },
+    {
+        "destino": "Torreon",
+        "estado": "COAHUILA",
+        "personas": "5 - 7",
+        "precio": 3109.05
+    },
+    {
+        "destino": "Torreon",
+        "estado": "COAHUILA",
+        "personas": "8 - 14",
+        "precio": 3209.05
+    },
+    {
+        "destino": "Torreon",
+        "estado": "COAHUILA",
+        "personas": "15 - 20",
+        "precio": 4145.4
+    },
+    {
+        "destino": "Irapuato",
+        "estado": "GUANAJUATO",
+        "personas": "1 - 4",
+        "precio": 647
+    },
+    {
+        "destino": "Irapuato",
+        "estado": "GUANAJUATO",
+        "personas": "5 - 7",
+        "precio": 970.2
+    },
+    {
+        "destino": "Irapuato",
+        "estado": "GUANAJUATO",
+        "personas": "8 - 14",
+        "precio": 1070.2
+    },
+    {
+        "destino": "Irapuato",
+        "estado": "GUANAJUATO",
+        "personas": "15 - 20",
+        "precio": 1293.6
+    },
+    {
+        "destino": "León",
+        "estado": "GUANAJUATO",
+        "personas": "1 - 4",
+        "precio": 779
+    },
+    {
+        "destino": "León",
+        "estado": "GUANAJUATO",
+        "personas": "5 - 7",
+        "precio": 1168.65
+    },
+    {
+        "destino": "León",
+        "estado": "GUANAJUATO",
+        "personas": "8 - 14",
+        "precio": 1268.65
+    },
+    {
+        "destino": "León",
+        "estado": "GUANAJUATO",
+        "personas": "15 - 20",
+        "precio": 1558.2
+    },
+    {
+        "destino": "Aguascalientes",
+        "estado": "AGUASCALIENTES",
+        "personas": "1 - 4",
+        "precio": 1023
+    },
+    {
+        "destino": "Aguascalientes",
+        "estado": "AGUASCALIENTES",
+        "personas": "5 - 7",
+        "precio": 1534.05
+    },
+    {
+        "destino": "Aguascalientes",
+        "estado": "AGUASCALIENTES",
+        "personas": "8 - 14",
+        "precio": 1634.05
+    },
+    {
+        "destino": "Aguascalientes",
+        "estado": "AGUASCALIENTES",
+        "personas": "15 - 20",
+        "precio": 2045.4
+    },
+    {
+        "destino": "Zacatecas",
+        "estado": "ZACATECAS",
+        "personas": "1 - 4",
+        "precio": 1264
+    },
+    {
+        "destino": "Zacatecas",
+        "estado": "ZACATECAS",
+        "personas": "5 - 7",
+        "precio": 1896.3
+    },
+    {
+        "destino": "Zacatecas",
+        "estado": "ZACATECAS",
+        "personas": "8 - 14",
+        "precio": 1996.3
+    },
+    {
+        "destino": "Zacatecas",
+        "estado": "ZACATECAS",
+        "personas": "15 - 20",
+        "precio": 2528.4
+    },
+    {
+        "destino": "Reynosa",
+        "estado": "TAMAULIPAS",
+        "personas": "1 - 4",
+        "precio": 2003
+    },
+    {
+        "destino": "Reynosa",
+        "estado": "TAMAULIPAS",
+        "personas": "5 - 7",
+        "precio": 3005.1
+    },
+    {
+        "destino": "Reynosa",
+        "estado": "TAMAULIPAS",
+        "personas": "8 - 14",
+        "precio": 3105.1
+    },
+    {
+        "destino": "Reynosa",
+        "estado": "TAMAULIPAS",
+        "personas": "15 - 20",
+        "precio": 4006.8
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "1 - 4",
+        "precio": 962
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "5 - 7",
+        "precio": 1442.7
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "8 - 14",
+        "precio": 1542.7
+    },
+    {
+        "destino": "Tampico",
+        "estado": "TAMAULIPAS",
+        "personas": "15 - 20",
+        "precio": 1923.6
+    },
+    {
+        "destino": "CD.Victoria",
+        "estado": "TAMAULIPAS",
+        "personas": "1 - 4",
+        "precio": 1512
+    },
+    {
+        "destino": "CD.Victoria",
+        "estado": "TAMAULIPAS",
+        "personas": "5 - 7",
+        "precio": 2268
+    },
+    {
+        "destino": "CD.Victoria",
+        "estado": "TAMAULIPAS",
+        "personas": "8 - 14",
+        "precio": 2368
+    },
+    {
+        "destino": "CD.Victoria",
+        "estado": "TAMAULIPAS",
+        "personas": "15 - 20",
+        "precio": 3024
+    },
+    {
+        "destino": "Linares",
+        "estado": "NUEVO LEON",
+        "personas": "1 - 4",
+        "precio": 1699
+    },
+    {
+        "destino": "Linares",
+        "estado": "NUEVO LEON",
+        "personas": "5 - 7",
+        "precio": 2548.35
+    },
+    {
+        "destino": "Linares",
+        "estado": "NUEVO LEON",
+        "personas": "8 - 14",
+        "precio": 2648.35
+    },
+    {
+        "destino": "Linares",
+        "estado": "NUEVO LEON",
+        "personas": "15 - 20",
+        "precio": 3397.8
+    },
+    {
+        "destino": "Nuevo Laredo",
+        "estado": "TAMAULIPAS",
+        "personas": "1 - 4",
+        "precio": 2331
+    },
+    {
+        "destino": "Nuevo Laredo",
+        "estado": "TAMAULIPAS",
+        "personas": "5 - 7",
+        "precio": 3496.5
+    },
+    {
+        "destino": "Nuevo Laredo",
+        "estado": "TAMAULIPAS",
+        "personas": "8 - 14",
+        "precio": 3596.5
+    },
+    {
+        "destino": "Nuevo Laredo",
+        "estado": "TAMAULIPAS",
+        "personas": "15 - 20",
+        "precio": 4662
+    },
+    {
+        "destino": "Monterrey",
+        "estado": "NUEVO LEON",
+        "personas": "1 - 4",
+        "precio": 1984
+    },
+    {
+        "destino": "Monterrey",
+        "estado": "NUEVO LEON",
+        "personas": "5 - 7",
+        "precio": 2841.3
+    },
+    {
+        "destino": "Monterrey",
+        "estado": "NUEVO LEON",
+        "personas": "8 - 14",
+        "precio": 2941.3
+    },
+    {
+        "destino": "Monterrey",
+        "estado": "NUEVO LEON",
+        "personas": "15 - 20",
+        "precio": 3788.4
+    },
+    {
+        "destino": "Puerto Econdido",
+        "estado": "OAXACA",
+        "personas": "1 - 4",
+        "precio": 1604
+    },
+    {
+        "destino": "Puerto Econdido",
+        "estado": "OAXACA",
+        "personas": "5 - 7",
+        "precio": 2406.6
+    },
+    {
+        "destino": "Puerto Econdido",
+        "estado": "OAXACA",
+        "personas": "8 - 14",
+        "precio": 2506.6
+    },
+    {
+        "destino": "Puerto Econdido",
+        "estado": "OAXACA",
+        "personas": "15 - 20",
+        "precio": 3208.8
+    }
+
+    
+]

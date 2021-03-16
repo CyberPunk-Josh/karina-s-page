@@ -11,6 +11,10 @@
   background: rgba(0, 0, 0, 0.199)!important; 
 }
 
+.activo{
+  background: rgba(0, 0, 0, 0.753)!important;
+}
+
 /* Header */
 
 .aw-vertical-align{
@@ -205,4 +209,92 @@
 .fondo3 p{
   color: rgba(0, 0, 0, 0.849);
   font-weight: 400;
+}
+
+/* calc */
+
+.calc i{
+  font-size: 3rem;
+  color: #fb3;
+}
+
+/* Pagina Contacto */
+/* fondo */
+.fondo4{
+  background-image: linear-gradient(to top, rgba(204, 165, 80, 0.404) 0%, rgba(221, 245, 0, 0.404) 100%), url(./img/contacto.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+.fondo4 h1{
+  font-size: 2.2rem;
+  font-weight: 500;
+  font-family: 'Kaushan Script', cursive;
+  color: rgba(0, 0, 0, 0.849);
+}
+
+
+
+
+.fondo4 p{
+  color: rgba(0, 0, 0, 0.849);
+  font-weight: 400;
+}
+
+/** Contacto **/
+.formulario-contacto {
+  border: 2px solid #fb3;
+  background-color: hsla(40, 18%, 74%, 0.87)
+}
+
+/* Buscador de viajes */
+.resultados{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: auto;
+  margin-top: 18px;
+}
+
+.fondo_buscador{
+  background-image: linear-gradient(to top, rgba(204, 165, 80, 0.404) 0%, rgba(221, 245, 0, 0.404) 100%),  url(./img/buscador.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.fondo_buscador h1{
+  font-size: 2.2rem;
+  font-weight: 500;
+  font-family: 'Kaushan Script', cursive;
+}
+
+/* WhatsApp */
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
+
+.whatsapp:hover{
+  text-decoration: none;
+  color: #fff;
 }

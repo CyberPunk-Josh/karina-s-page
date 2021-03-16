@@ -6,6 +6,7 @@ import ViajesSec from './components/ViajesSec';
 import BannerRecorre from '../principal/components/BannerRecorre';
 import InfoCalculo from './components/InfoCalculo';
 import Footer from '../layout/Footer';
+import BuscaViaje from './components/BuscaViaje';
 
 const Rutas = () => {
     return ( 
@@ -14,6 +15,7 @@ const Rutas = () => {
             <Header />
             <ViajesFav />
             <ViajesSec />
+            <BuscaViaje/>
             <BannerRecorre />
             <InfoCalculo />
             <Footer/>
