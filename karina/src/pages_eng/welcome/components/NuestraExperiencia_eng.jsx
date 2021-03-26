@@ -10,18 +10,18 @@ const NuestraExperiencia = () => {
         <div className="container mt-5">
             <div className="row">
                 <div className="col-md-8">
-                    <h2 className="text-center mb-5">Nuestra Experiencia</h2>
+                    <h2 className="text-center mb-5">Our Experience</h2>
                     <div className="row entrada mb-4">
                         <div className="col-md-5">
                             <img src={yue} alt="logo empresa" className="img-fluid" />
                         </div>
                         <div className="col-md-7">
-                            <h3 className="my-2">Empresa 100% Mexicana</h3>
+                            <h3 className="my-2">Company 100% Mexican</h3>
                             <p className="meta">
-                                Conoce Nuestra Historia...
+                                Know Our History
                             </p>
-                            <p>Las mejores experiencias en recorridos y transportación terrestre en toda la Ciudad de México y república mexicana con VIKA, turismo y transporte.</p>
-                            <Link to='/nosotros' className="btn btn-warning text-uppercase py-2 mt-4">Nosotros</Link>
+                            <p>The best experiences in tours and ground transportation throughout Mexico City and the Mexican Republic, with Vika Turismo y Transporte</p>
+                            <Link to='/en/us' className="btn btn-warning text-uppercase py-2 mt-4">Us</Link>
                         </div>
                     </div>
                     <div className="row entrada mb-4">
@@ -29,17 +29,17 @@ const NuestraExperiencia = () => {
                             <img src={chichen2} alt="experiencia de viaje" className="img-fluid" />
                         </div>
                         <div className="col-md-7">
-                            <h3 className="my-2">1000+ viajes</h3>
+                            <h3 className="my-2">1000+ trips</h3>
                             <p className="meta">
-                                Conoce Nuestras Rutas... 
+                                Know our Trips
                             </p>
-                            <p>Pregunta por nuestros descuentos y promociones para nacionales y extranjeros.</p>
-                            <Link to='/rutas' className="btn btn-warning text-uppercase py-2 mt-4">Rutas</Link>
+                            <p>Rate according  to your service requested. Contact one of our agents and get your reservation.</p>
+                            <Link to='/en/routes' className="btn btn-warning text-uppercase py-2 mt-4">Routes</Link>
                         </div>
                     </div>
                 </div>
                 <div className="col-md-4">
-                    <h2 className="text-center mb-5">Testimoniales</h2>
+                    <h2 className="text-center mb-5">Testimonial</h2>
                     <div className="testimoniales p-5">
                         <Carousel  nextIcon="" nextLabel="" prevIcon="" indicators="false" controls="false" keyboard='false'>
                             <Carousel.Item>

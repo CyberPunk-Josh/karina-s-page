@@ -298,3 +298,17 @@
   text-decoration: none;
   color: #fff;
 }
+
+/* formulario de contacto */
+.mensaje_enviado{
+  text-transform: capitalize;
+  color: #fff;
+  text-align: center;
+  display: block;
+  font-size: 2rem;
+}
+
+.smg{
+  display: none;
+  
+}

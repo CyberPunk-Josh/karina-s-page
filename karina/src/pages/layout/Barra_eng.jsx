@@ -28,25 +28,25 @@ const Barra = () => {
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
             <Nav.Link >
-                <Link to='/' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Inicio</Link>
+                <Link to='/en/welcome' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Welcome</Link>
             </Nav.Link>
             <Nav.Link>
-                <Link to='/nosotros' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Nosotros</Link>
+                <Link to='/en/us' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Us</Link>
             </Nav.Link>
             <Nav.Link >
-                <Link to='/rutas' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Rutas</Link>
+                <Link to='/en/routes' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Routes</Link>
             </Nav.Link>
             <Nav.Link >
-                <Link to='/buscador' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Viajes</Link>
+                <Link to='/en/trips' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Trips</Link>
             </Nav.Link>
             <Nav.Link>
-                <Link to='/contacto' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Contacto</Link>
+                <Link to='/en/contact' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Contact</Link>
             </Nav.Link>
             <Nav.Link>
-                <Link to='/' className={navbar ? 'text-uppercase text-warning' : 'text-uppercase text-warning'}>Es</Link>
+                <Link to='/' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>Es</Link>
             </Nav.Link>
             <Nav.Link>
-                <Link to='/en/welcome' className={navbar ? 'text-uppercase text-white' : 'text-uppercase text-dark'}>En</Link>
+                <Link to='/en/welcome' className={navbar ? 'text-uppercase text-warning' : 'text-uppercase text-warning'}>En</Link>
             </Nav.Link>
             </Nav>
         </Navbar.Collapse>

@@ -22,7 +22,7 @@ const ViajesFavoritos = () => {
 
     return ( 
         <section className="container anuncios mt-5">
-            <h2 className="text-center mb-5">Nuestros Viajes Favoritos</h2>
+            <h2 className="text-center mb-5">Our Favorite Trips</h2>
             <div className="row">
                 <div className="col-md-4 order-2">
                     <Card style={{ width: '18rem' }} border="warning">
@@ -39,7 +39,7 @@ const ViajesFavoritos = () => {
                                 <li><i className="fas fa-route mr-3"></i>Tour</li>
                             </ul>
                         </Card.Text>
-                        <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow}>Ver Viaje</Button>
+                        <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow}>See More</Button>
                     </Card.Body>
                     </Card>
 
@@ -49,11 +49,11 @@ const ViajesFavoritos = () => {
                         </Modal.Header>
                         <Modal.Body>
                             <img src={CDMX3} alt="Ciudad de mexico" className='img-fluid'/>
-                            <p className="mt-3">Estos Murales los puedes encontrar en distintos puntos de la Ciudad de México, algunos en lugares recónditos, otros a la vista de gran cantidad de personas, muchos de ellos tienen que ver con la cultura y tradiciones prehispánicas y actuales que seguimos las familias Mexicanas, animales considerados sagrados o grandes héroes revolucionarios sin dejar afuera muchos otros temas libres.</p>
+                            <p className="mt-3">These murals can be found in different parts of Mexico City, some in remote places, others in the sight of large numbers of people, many of them have to do with the culture and traditions prehispanic and current that we follow the Mexican families, animals considered sacred or great revolutionary heroes without leaving out many other free topics.</p>
                         </Modal.Body>
                         <Modal.Footer>
                         <Button variant="secondary" onClick={handleClose}>
-                            Cerrar
+                            Close
                         </Button>
                         </Modal.Footer>
                     </Modal>
@@ -73,7 +73,7 @@ const ViajesFavoritos = () => {
                                     <li><i className="fas fa-route mr-3"></i>Tour</li>
                                 </ul>
                             </Card.Text>
-                            <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow2}>Ver Viaje</Button>
+                            <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow2}>See More</Button>
                         </Card.Body>
                     </Card>
                     <Modal show={show2} onHide={handleClose2}>
@@ -82,11 +82,11 @@ const ViajesFavoritos = () => {
                         </Modal.Header>
                         <Modal.Body>
                             <img src={MAZUNTE2} alt="Playa Mazunte" className='img-fluid'/>
-                            <p className="mt-3">Esta playa situada en la costa del Océano Pacífico del estado de Oaxaca al sureste de México, a 264 km de la capital oaxaqueña. Mazunte en dialecto náhuatl significa “déjame verte desovar”, y esto se refiere a que en las playas de este sitio da lugar a la anidación de las tortugas marinas, desde 1960 las playas de Mazunte son visitadas por cientos de tortugas de la especie Golfina que desovaba por las noches en ciertas etapas lunares. Así como esta hermosa playa hay otras bastante interesantes donde puedes convivir con los animales marinos!.</p>
+                            <p className="mt-3">This beach is located on the coast of the Pacific Ocean of the state of Oaxaca, southeast of Mexico, 264 km from the Oaxacan capital. Mazunte in Nahuatl dialect means "let me see you spawn", and this refers to the fact that on the beaches of this site gives rise to the nesting of sea turtles, Since 1960 the beaches of Mazunte are visited by hundreds of turtles of the species Golfina that spawned at night in certain lunar stages. As well as this beautiful beach there are other quite interesting where you can coexist with marine animals!.</p>
                         </Modal.Body>
                         <Modal.Footer>
                         <Button variant="secondary" onClick={handleClose2}>
-                            Cerrar
+                            Close
                         </Button>
                         </Modal.Footer>
                     </Modal>
@@ -106,7 +106,7 @@ const ViajesFavoritos = () => {
                                     <li><i className="fas fa-route mr-3"></i>Tour</li>
                                 </ul>
                             </Card.Text>
-                            <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow3}>Ver Viaje</Button>
+                            <Button className='btn btn-warning d-block py-2 text-uppercase' onClick={handleShow3}>See More</Button>
                         </Card.Body>
                     </Card>
                     <Modal show={show3} onHide={handleClose3}>
@@ -115,11 +115,11 @@ const ViajesFavoritos = () => {
                         </Modal.Header>
                         <Modal.Body>
                             <img src={SCRISTOBAL2} alt="Playa Mazunte" className='img-fluid'/>
-                            <p className="mt-3">A través de la caminata por el centro de la ciudad puedes ver distintas iglesias llenas de color e historia. Un ejemplo es la iglesia de Guadalupe donde, se puede admirar una hermosa vista panorámica de la ciudad, su plaza está llena de luz y tranquilidad que puedes ir a disfrutar a cualquier hora del día. Si te gusta apreciar los estilos de los retablos principales, púlpitos y pinturas de estas iglesias y sus diversos elementos de arquitectura neoclásica, Barroca y Art Nouveau este lugar es para ti!</p>
+                            <p className="mt-3">Through the walk through the city center you can see different churches full of color and history. An example is the church of Guadalupe where, you can admire a beautiful panoramic view of the city, its square is full of light and tranquility that you can go to enjoy at any time of the day. If you like to appreciate the styles of the main altarpieces, pulpits and paintings of these churches and their various elements of neoclassical architecture, Baroque and Art Nouveau this place is for you!</p>
                         </Modal.Body>
                         <Modal.Footer>
                         <Button variant="secondary" onClick={handleClose3}>
-                            Cerrar
+                            Close
                         </Button>
                         </Modal.Footer>
                     </Modal>

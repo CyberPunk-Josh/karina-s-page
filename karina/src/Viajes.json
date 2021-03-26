@@ -1438,7 +1438,413 @@
         "estado": "OAXACA",
         "personas": "15 - 20",
         "precio": 3208.8
+    },
+    {
+        "destino": "Oaxaca",
+        "estado": "OAXACA",
+        "personas": "1 - 4",
+        "precio": 979
+    },
+    {
+        "destino": "Oaxaca",
+        "estado": "OAXACA",
+        "personas": "5 - 7",
+        "precio": 1461.6
+    },
+    {
+        "destino": "Oaxaca",
+        "estado": "OAXACA",
+        "personas": "8 - 14",
+        "precio": 1561.6
+    },
+    {
+        "destino": "Oaxaca",
+        "estado": "OAXACA",
+        "personas": "15 - 20",
+        "precio": 1948.8
+    },
+    {
+        "destino": "Salina Cruz",
+        "estado": "OAXACA",
+        "personas": "1 - 4",
+        "precio": 1558
+    },
+    {
+        "destino": "Salina Cruz",
+        "estado": "OAXACA",
+        "personas": "5 - 7",
+        "precio": 2337.3
+    },
+    {
+        "destino": "Salina Cruz",
+        "estado": "OAXACA",
+        "personas": "8 - 14",
+        "precio": 2473.3
+    },
+    {
+        "destino": "Salina Cruz",
+        "estado": "OAXACA",
+        "personas": "15 - 20",
+        "precio": 3116.4
+    },
+    {
+        "destino": "Huatulco",
+        "estado": "OAXACA",
+        "personas": "1 - 4",
+        "precio": 1464
+    },
+    {
+        "destino": "Huatulco",
+        "estado": "OAXACA",
+        "personas": "5 - 7",
+        "precio": 2195.55
+    },
+    {
+        "destino": "Huatulco",
+        "estado": "OAXACA",
+        "personas": "8 - 14",
+        "precio": 2295.55
+    },
+    {
+        "destino": "Huatulco",
+        "estado": "OAXACA",
+        "personas": "15 - 20",
+        "precio": 2972.4
+    },
+    {
+        "destino": "Grutas de Tolantongo",
+        "estado": "HIDALGO",
+        "personas": "1 - 4",
+        "precio": 288
+    },
+    {
+        "destino": "Grutas de Tolantongo",
+        "estado": "HIDALGO",
+        "personas": "5 - 7",
+        "precio": 431.55
+    },
+    {
+        "destino": "Grutas de Tolantongo",
+        "estado": "HIDALGO",
+        "personas": "8 - 14",
+        "precio": 531.55
+    },
+    {
+        "destino": "Grutas de Tolantongo",
+        "estado": "HIDALGO",
+        "personas": "15 - 20",
+        "precio": 575.4
+    },
+    {
+        "destino": "Chichen Itza",
+        "estado": "YUCATAN",
+        "personas": "1 - 4",
+        "precio": 3003
+    },
+    {
+        "destino": "Chichen Itza",
+        "estado": "YUCATAN",
+        "personas": "5 - 7",
+        "precio": 4504.5
+    },
+    {
+        "destino": "Chichen Itza",
+        "estado": "YUCATAN",
+        "personas": "8 - 14",
+        "precio": 4604.5
+    },
+    {
+        "destino": "Chichen Itza",
+        "estado": "YUCATAN",
+        "personas": "15 - 20",
+        "precio": 6006
+    },
+    {
+        "destino": "Mineral de Chico",
+        "estado": "HIDALGO",
+        "personas": "1 - 4",
+        "precio": 254
+    },
+    {
+        "destino": "Mineral de Chico",
+        "estado": "HIDALGO",
+        "personas": "5 - 7",
+        "precio": 381.15
+    },
+    {
+        "destino": "Mineral de Chico",
+        "estado": "HIDALGO",
+        "personas": "8 - 14",
+        "precio": 481.15
+    },
+    {
+        "destino": "Mineral de Chico",
+        "estado": "HIDALGO",
+        "personas": "15 - 20",
+        "precio": 508.2
+    },
+    {
+        "destino": "Tequila",
+        "estado": "JALISCO",
+        "personas": "1 - 4",
+        "precio": 1252
+    },
+    {
+        "destino": "Tequila",
+        "estado": "JALISCO",
+        "personas": "5 - 7",
+        "precio": 1877.4
+    },
+    {
+        "destino": "Tequila",
+        "estado": "JALISCO",
+        "personas": "8 - 14",
+        "precio": 1977.4
+    },
+    {
+        "destino": "Tequila",
+        "estado": "JALISCO",
+        "personas": "15 - 20",
+        "precio": 2503.2
+    },
+    {
+        "destino": "Palenque",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 1882
+    },
+    {
+        "destino": "Palenque",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 2822.4
+    },
+    {
+        "destino": "Palenque",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 2922.4
+    },
+    {
+        "destino": "Palenque",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 3763.2
+    },
+    {
+        "destino": "Mazunte",
+        "estado": "OAXACA",
+        "personas": "1 - 4",
+        "precio": 1520
+    },
+    {
+        "destino": "Mazunte",
+        "estado": "OAXACA",
+        "personas": "5 - 7",
+        "precio": 2280.6
+    },
+    {
+        "destino": "Mazunte",
+        "estado": "OAXACA",
+        "personas": "8 - 14",
+        "precio": 2380.6
+    },
+    {
+        "destino": "Mazunte",
+        "estado": "OAXACA",
+        "personas": "15 - 20",
+        "precio": 3040.8
+    },
+    {
+        "destino": "Valladolid",
+        "estado": "YUCATAN",
+        "personas": "1 - 4",
+        "precio": 3077
+    },
+    {
+        "destino": "Valladolid",
+        "estado": "YUCATAN",
+        "personas": "5 - 7",
+        "precio": 4614.75
+    },
+    {
+        "destino": "Valladolid",
+        "estado": "YUCATAN",
+        "personas": "8 - 14",
+        "precio": 4714.75
+    },
+    {
+        "destino": "Valladolid",
+        "estado": "YUCATAN",
+        "personas": "15 - 20",
+        "precio": 6153
+    },
+    {
+        "destino": "Lagunas de Montebello",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 2174
+    },
+    {
+        "destino": "Lagunas de Montebello",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 3260.25
+    },
+    {
+        "destino": "Lagunas de Montebello",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 3360.25
+    },
+    {
+        "destino": "Lagunas de Montebello",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 4347
+    },
+    {
+        "destino": "Ek Balam",
+        "estado": "YUCATAN",
+        "personas": "1 - 4",
+        "precio": 2875
+    },
+    {
+        "destino": "Ek Balam",
+        "estado": "YUCATAN",
+        "personas": "5 - 7",
+        "precio": 4312.35
+    },
+    {
+        "destino": "Ek Balam",
+        "estado": "YUCATAN",
+        "personas": "8 - 14",
+        "precio": 4412.35
+    },
+    {
+        "destino": "Ek Balam",
+        "estado": "YUCATAN",
+        "personas": "15 - 20",
+        "precio": 5749.8
+    },
+    {
+        "destino": "Cañon del Sumidero",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 1777
+    },
+    {
+        "destino": "Cañon del Sumidero",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 2664.9
+    },
+    {
+        "destino": "Cañon del Sumidero",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 2764.9
+    },
+    {
+        "destino": "Cañon del Sumidero",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 3553.2
+    },
+    {
+        "destino": "Cascada Velo de Novia",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 2031
+    },
+    {
+        "destino": "Cascada Velo de Novia",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 3046.05
+    },
+    {
+        "destino": "Cascada Velo de Novia",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 3146.05
+    },
+    {
+        "destino": "Cascada Velo de Novia",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 4061.4
+    },
+    {
+        "destino": "Chiapa de Corso",
+        "estado": "CHIAPAS",
+        "personas": "1 - 4",
+        "precio": 1781
+    },
+    {
+        "destino": "Chiapa de Corso",
+        "estado": "CHIAPAS",
+        "personas": "5 - 7",
+        "precio": 2671.2
+    },
+    {
+        "destino": "Chiapa de Corso",
+        "estado": "CHIAPAS",
+        "personas": "8 - 14",
+        "precio": 2771.2
+    },
+    {
+        "destino": "Chiapa de Corso",
+        "estado": "CHIAPAS",
+        "personas": "15 - 20",
+        "precio": 3561.6
+    },
+    {
+        "destino": "Cenotes",
+        "estado": "YUCATAN",
+        "personas": "1 - 4",
+        "precio": 3005
+    },
+    {
+        "destino": "Cenotes",
+        "estado": "YUCATAN",
+        "personas": "5 - 7",
+        "precio": 4507.65
+    },
+    {
+        "destino": "Cenotes",
+        "estado": "YUCATAN",
+        "personas": "8 - 14",
+        "precio": 4607.65
+    },
+    {
+        "destino": "Cenotes",
+        "estado": "YUCATAN",
+        "personas": "15 - 20",
+        "precio": 6010.2
+    },
+    {
+        "destino": "Xcaret",
+        "estado": "QUINTANA ROO",
+        "personas": "1 - 4",
+        "precio": 3354
+    },
+    {
+        "destino": "Xcaret",
+        "estado": "QUINTANA ROO",
+        "personas": "5 - 7",
+        "precio": 5030.55
+    },
+    {
+        "destino": "Xcaret",
+        "estado": "QUINTANA ROO",
+        "personas": "8 - 14",
+        "precio": 5130.55
+    },
+    {
+        "destino": "Xcaret",
+        "estado": "QUINTANA ROO",
+        "personas": "15 - 20",
+        "precio": 6706.4
     }
-
-    
 ]
