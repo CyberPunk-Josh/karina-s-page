@@ -34,7 +34,7 @@
 .fondo h1{
   font-size: 2.2rem;
   font-weight: 500;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* termina Header */
@@ -132,8 +132,65 @@
   text-transform: uppercase;
 }
 
+.wrapper .button{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  /* float: left; */
+  margin: 0 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:hover{
+  width: 200px;
+}
+.wrapper .button .icon{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:nth-child(1):hover .icon{
+  background: #4267B2;
+}
+
+.wrapper .button .icon i{
+  font-size: 25px;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:hover .icon i{
+  color: #fff;
+}
+.wrapper .button span{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 60px;
+  margin-left: 10px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:nth-child(1) span{
+  color: #4267B2;
+}
+
 .carousel-indicators{
   display: none !important;
+}
+
+.columna-footer h2{
+  color: #fb3;
+}
+
+.footer-yue span{
+  font-weight: bold;
 }
 
 /* Nosotros */
@@ -149,7 +206,7 @@
 .fondo2 h1{
   font-size: 2.2rem;
   font-weight: 700;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
   color: rgba(0, 0, 0, 0.849);
 }
 
@@ -202,7 +259,7 @@
 .fondo3 h1{
   font-size: 2.2rem;
   font-weight: 500;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
   color: rgba(0, 0, 0, 0.849);
 }
 
@@ -232,7 +289,7 @@
 .fondo4 h1{
   font-size: 2.2rem;
   font-weight: 500;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
   color: rgba(0, 0, 0, 0.849);
 }
 
@@ -272,7 +329,7 @@
 .fondo_buscador h1{
   font-size: 2.2rem;
   font-weight: 500;
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* WhatsApp */
@@ -311,4 +368,9 @@
 .smg{
   display: none;
   
+}
+
+.container-cards{
+  display: flex;
+  justify-content: center;
 }

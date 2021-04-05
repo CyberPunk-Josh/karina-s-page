@@ -24,7 +24,7 @@ const ViajesFavoritos = () => {
         <section className="container anuncios mt-5">
             <h2 className="text-center mb-5">Our Favorite Trips</h2>
             <div className="row">
-                <div className="col-md-4 order-2">
+                <div className="col-md-4 order-2 d-flex justify-content-center">
                     <Card style={{ width: '18rem' }} border="warning">
                     <Card.Img variant="top" src={CDMX3} className='img-fluid'/>
                     <Card.Body>
@@ -58,7 +58,7 @@ const ViajesFavoritos = () => {
                         </Modal.Footer>
                     </Modal>
                 </div>
-                <div className="col-md-4 order-1">
+                <div className="col-md-4 order-1 d-flex justify-content-center">
                     <Card style={{ width: '18rem' }} border="warning">
                         <Card.Img variant="top" src={MAZUNTE2} className='img-fluid'/>
                         <Card.Body>
@@ -91,7 +91,7 @@ const ViajesFavoritos = () => {
                         </Modal.Footer>
                     </Modal>
                 </div>
-                <div className="col-md-4 order-3">
+                <div className="col-md-4 order-3 d-flex justify-content-center">
                     <Card style={{ width: '18rem' }} border="warning">
                         <Card.Img variant="top" src={SCRISTOBAL2} className='img-fluid'/>
                         <Card.Body>
